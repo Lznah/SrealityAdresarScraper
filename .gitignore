@@ -1,0 +1,6 @@
+__pycache__
+__venv__
+*.pyc
+.DS_Store
+chromedriver
+*.log
